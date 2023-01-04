@@ -31,3 +31,9 @@ the programs we deal with are :
 - Photoshop
 - Figma
 - and much more
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
