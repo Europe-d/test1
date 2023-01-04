@@ -16,9 +16,8 @@ I'm learning mobile app development at the institute "Syntax"
 
 but thankfully we're working on the app UI-UX design. 
 
-my logo is "<font color="red">_ed_</font>"
-
-Europ<font color="red">_ed_</font>esign
+my logo is "<font color="red">_ed_</font>" from : 
+ Europ<font color="red">_ed_</font>esign
 
 
 *MY FAVORITE ANIMAL IS <font color="yellow">PUMA</font>.* 😱 
@@ -30,19 +29,23 @@ a few things what I know :
 
 
 
-| Languages     | Level           | Programm ✨      |
-|---------------|-----------------|-----------------|
-| Greek         | mother tongue   | CorelDRAW       |
-| Englisch      | Β1              | Adobe Photoshop |
-| German        | Β2              | Figma           |
-|               |                 | AutoCAD         |
-|               |                 | PowerPoint      |
-|               |                 | Citrix Gateway  |
-|               |                 | Prisma          |
-|               |                 | Adobe Animate   |
-|               |                 | Skizzenbuch     |
-|               |                 | Vector          |
-|               |                 | Painter         |
-|               |                 | RoomPlanner     |
+| Languages     | Level            | Programm        |
+|---------------|------------------|-----------------|
+| Greek         | mother Languages | CorelDRAW ✨     |
+| Englisch      | Β1               | Adobe Photoshop |
+| German        | Β2               | Figma           |
+|               |                  | AutoCAD         |
+|               |                  | PowerPoint      |
+|               |                  | Citrix Gateway  |
+|               |                  | Prisma          |
+|               |                  | Adobe Animate   |
+|               |                  | Skizzenbuch     |
+|               |                  | Vector          |
+|               |                  | Painter         |
+|               |                  | RoomPlanner     |
 
+
+where you can find me
+
+https://www.instagram.com/ed.europedesign/
 
