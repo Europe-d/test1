@@ -21,19 +21,28 @@ my logo is "<font color="red">_ed_</font>"
 Europ<font color="red">_ed_</font>esign
 
 
-*MY FAVORITE ANIMAL IS <font color="yellow">PUMA</font>.*
+*MY FAVORITE ANIMAL IS <font color="yellow">PUMA</font>.* 😱 
 
 ![waitandshoot200900149.webp](..%2F..%2Fwaitandshoot200900149.webp)
 
 
-the programs we deal with are :
-- Corel
-- Photoshop
-- Figma
-- and much more
+a few things what I know :
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
+| Languages     | Level           | Programm ✨      |
+|---------------|-----------------|-----------------|
+| Greek         | mother tongue   | CorelDRAW       |
+| Englisch      | Β1              | Adobe Photoshop |
+| German        | Β2              | Figma           |
+|               |                 | AutoCAD         |
+|               |                 | PowerPoint      |
+|               |                 | Citrix Gateway  |
+|               |                 | Prisma          |
+|               |                 | Adobe Animate   |
+|               |                 | Skizzenbuch     |
+|               |                 | Vector          |
+|               |                 | Painter         |
+|               |                 | RoomPlanner     |
+
+
