@@ -20,9 +20,9 @@ my logo is "<font color="red">_ed_</font>" from :
  Europ<font color="red">_ed_</font>esign
 
 
-*MY FAVORITE ANIMAL IS <font color="yellow">PUMA</font>.* 😱 
+*MY FAVORITE ANIMAL IS <font color="Black">BLACK</font><font color="yellow">PUMA</font>.* 😱
 
-![waitandshoot200900149.webp](..%2F..%2Fwaitandshoot200900149.webp)
+![waitandshoot200900149.webp](/Users/europe/Downloads/61wHr2lF7JL._AC_SX425_.jpg)
 
 
 a few things what I know :
@@ -45,7 +45,7 @@ a few things what I know :
 |               |                  | RoomPlanner     |
 
 
-where you can find me
+where you can find me :
 
 https://www.instagram.com/ed.europedesign/
 
