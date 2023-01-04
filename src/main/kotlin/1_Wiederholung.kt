@@ -16,7 +16,7 @@ fun main() {
     println("welche ist dein Essen:")
     var essen1 : String = readln()
     var eingabe1 = println("viele dank wir kochen das für dich")
-    // TODO b: Benenne die Values
+    // TODO b: benenne die values
     val tELEFONUMMER : String = "0123 45678910"
     val fAVORITE_COLOR: String = "Blau"
     val eSSEN : String = "KALAMARIA"
