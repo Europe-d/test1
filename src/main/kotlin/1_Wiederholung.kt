@@ -51,6 +51,7 @@ fun main() {
 println("MY NAME IS $nAME  $fIRST_NAME $lAST_NAME UND MEINE Telefonummer IST  $tELEFONUMMER konnen sie mir anrufen wenn die bestellung nicht genommen haben")
 
     println("wIR Sicken das essen um $tIME in Ihre straße")
+    println("wIR Sicken das essen um $tIME in Ihre straße")
 
    println("Ich bin in $placeOfBirth ich komme aus $lastVacation")
 
