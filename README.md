@@ -22,7 +22,7 @@ my logo is "<font color="red">_ed_</font>" from :
 
 *MY FAVORITE ANIMAL IS <font color="Black">BLACK</font><font color="yellow">PUMA</font>.* 😱
 
-![waitandshoot200900149.webp](61wHr2lF7JL._AC_SX425_.jpg)
+![puma](waitandshoot200900149.webp)
 
 
 a few things what I know :
